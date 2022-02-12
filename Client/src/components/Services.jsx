@@ -36,13 +36,13 @@ const Services = () => {
         />
         <ServiceCard 
           color="bg-[#8945F8]"
-          title="Best exchange rates"
+          title="Best Exchange Rates"
           icon={<BiSearchAlt fontSize={21} className="text-white" />}
           subtitle="Security is Guranteed. We always maintain privacy and mainting the quality of our products"
         />
         <ServiceCard 
           color="bg-[#F84550]"
-          title="Fastest transactions"
+          title="Fastest Transactions"
           icon={<RiHeart2Fill fontSize={21} className="text-white" />}
           subtitle="Security is Guranteed. We always maintain privacy and mainting the quality of our products"
         />
