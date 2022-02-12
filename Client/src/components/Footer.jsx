@@ -16,12 +16,12 @@ const Footer = () => {
         </div>
       </div>
       <div className="flex justify-center items-center flex-col mt-5">
-        <p className="text-white text-sm text-center">Come Join Us</p>
+        <p className="text-white text-sm text-center">Email me</p>
         <p className="text-white text-sm text-center">benedictkpaduwa@gmail.com</p>
       </div>
       <div className="sm:w-[90%] w-full h-[0.25px] bg-gray-400 mt-5"/>
       <div className="sm:w-[90%] w-full flex justify-between items-center mt-3">
-        <p className="text-white text-sm text-center">@benedictkpaduwa 2022</p>
+        <p className="text-white text-sm text-center">benedictkpaduwa 2022</p>
         <p className="text-white text-sm text-center">All rights reserved</p>
       </div>
     </div>
